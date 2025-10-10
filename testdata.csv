@@ -1,80 +1,51 @@
-rank,discipline,phd,service,sex,salary
-Prof,B,56,49,Male,186960
-Prof,A,12,6,Male,93000
-,A,23,20,Male,110515
-Prof,A,40,31,,131205
-Prof,B,20,,Male,104800
-Prof,A,20,20,Male,122400
-AssocProf,A,20,17,Male,81285
-Prof,A,18,18,Male,126300
-Prof,A,18,18,Male,126300
-Prof,A,29,19,Male,94350
-Prof,A,51,51,Male,57800
-Prof,B,39,33,Male,128250
-Prof,B,23,23,Male,134778
-AsstProf,B,1,0,Male,88000
-AsstProf,B,1,0,Male,88000
-Prof,,35,33,Male,
-Prof,B,25,19,Male,153750
-Prof,B,17,3,Male,150480
-AsstProf,B,8,3,Male,75044
-AsstProf,B,4,0,Male,92000
-Prof,A,19,7,Male,107300
-Prof,A,29,27,Male,150500
-AsstProf,B,4,4,Male,92000
-AsstProf,A,4,2,Male,73000
-AsstProf,A,2,0,Male,85000
-Prof,A,30,23,Male,91100
-Prof,B,35,31,Male,99418
-Prof,A,38,19,Male,148750
-Prof,A,45,43,Male,155865
-AsstProf,B,7,2,Male,91300
-Prof,B,21,20,Male,123683
-AssocProf,B,9,7,Male,107008
-Prof,B,22,21,Male,155750
-Prof,A,27,19,Male,103275
-Prof,B,18,18,Male,120000
-AssocProf,B,12,8,Male,119800
-Prof,B,28,23,Male,126933
-Prof,B,45,45,Male,146856
-Prof,A,20,8,Male,102000
-AsstProf,B,4,3,Male,91000
-Prof,B,18,18,Female,129000
-Prof,A,39,36,Female,137000
-AssocProf,A,13,8,Female,74830
-AsstProf,B,4,2,Female,80225
-AsstProf,B,5,0,Female,77000
-Prof,B,23,19,Female,151768
-Prof,B,25,25,Female,140096
-AsstProf,B,11,3,Female,74692
-AssocProf,B,11,11,Female,103613
-Prof,B,17,17,Female,111512
-Prof,B,17,18,Female,122960
-AsstProf,B,10,5,Female,97032
-Prof,B,20,14,Female,127512
-Prof,A,12,0,Female,105000
-AsstProf,A,5,3,Female,73500
-AssocProf,A,25,22,Female,62884
-AsstProf,A,2,0,Female,72500
-AssocProf,A,10,8,Female,77500
-AsstProf,A,3,1,Female,72500
-Prof,B,36,26,Female,144651
-AssocProf,B,12,10,Female,103994
-AsstProf,B,3,3,Female,92000
-AssocProf,B,13,10,Female,103750
-AssocProf,B,14,7,Female,109650
-Prof,A,29,27,Female,91000
-AssocProf,A,26,24,Female,73300
-Prof,A,36,19,Female,117555
-AsstProf,A,7,6,Female,63100
-Prof,A,17,11,Female,90450
-AsstProf,A,4,2,Female,77500
-Prof,A,28,7,Female,116450
-AsstProf,A,8,3,Female,78500
-AssocProf,B,12,9,Female,71065
-Prof,B,24,15,Female,161101
-Prof,B,18,10,Female,105450
-AssocProf,B,19,6,Female,104542
-Prof,B,17,17,Female,124312
-Prof,A,28,14,Female,109954
-Prof,A,23,15,Female,109646
+Vehicle_ID,Failure_1,Failure_2,Failure_3,Failure_4
+V001,Brake Pad,Disc Rotor,Suspension Arm,Battery
+V002,Alternator,Battery,Starter Motor,Headlight
+V003,Brake Pad,Disc Rotor,Brake Fluid,Wheel Cylinder
+V004,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V005,Alternator,Ignition Coil,Battery,Fuse
+V006,Fuel Pump,Injector,Air Filter,Fuel Filter
+V007,Timing Belt,Water Pump,Fan Belt,Alternator
+V008,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V009,Brake Pad,Disc Rotor,Suspension Arm,Shock Absorber
+V010,Battery,Alternator,Starter Motor,Ignition Coil
+V011,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V012,Brake Pad,Disc Rotor,Brake Fluid,Caliper
+V013,Alternator,Battery,Fuse,Headlight
+V014,Timing Belt,Water Pump,Fan Belt,Tensioner Pulley
+V015,Suspension Arm,Control Arm,Ball Joint,Shock Absorber
+V016,Brake Pad,Disc Rotor,Wheel Cylinder,Caliper
+V017,Clutch Plate,Gearbox,Flywheel,Pressure Plate
+V018,Battery,Alternator,Starter Motor,Ignition Coil
+V019,Fuel Pump,Injector,Fuel Filter,Air Filter
+V020,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V021,Timing Belt,Water Pump,Fan Belt,Alternator
+V022,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V023,Alternator,Battery,Headlight,Fuse
+V024,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V025,Brake Pad,Disc Rotor,Brake Fluid,Wheel Cylinder
+V026,Alternator,Starter Motor,Battery,Ignition Coil
+V027,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V028,Fuel Pump,Injector,Air Filter,Fuel Filter
+V029,Brake Pad,Disc Rotor,Suspension Arm,Shock Absorber
+V030,Timing Belt,Water Pump,Fan Belt,Alternator
+V031,Brake Pad,Disc Rotor,Caliper,Brake Fluid
+V032,Alternator,Battery,Fuse,Headlight
+V033,Clutch Plate,Gearbox,Flywheel,Pressure Plate
+V034,Brake Pad,Suspension Arm,Wheel Cylinder,Shock Absorber
+V035,Alternator,Starter Motor,Battery,Ignition Coil
+V036,Timing Belt,Water Pump,Fan Belt,Tensioner Pulley
+V037,Fuel Pump,Injector,Air Filter,Fuel Filter
+V038,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V039,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V040,Alternator,Battery,Starter Motor,Fuse
+V041,Brake Pad,Disc Rotor,Wheel Cylinder,Caliper
+V042,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V043,Fuel Pump,Injector,Fuel Filter,Air Filter
+V044,Timing Belt,Water Pump,Fan Belt,Alternator
+V045,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V046,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V047,Alternator,Battery,Headlight,Ignition Coil
+V048,Fuel Pump,Injector,Air Filter,Fuel Filter
+V049,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V050,Brake Pad,Disc Rotor,Caliper,Brake Fluid
