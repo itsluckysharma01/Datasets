@@ -1,21 +1,51 @@
 Vehicle_ID,Failure_1,Failure_2,Failure_3,Failure_4
 V001,Brake Pad,Disc Rotor,Suspension Arm,Battery
-V002,Alternator,Battery,Headlight,
-V003,Brake Pad,Disc Rotor,,
-V004,Clutch Plate,Gearbox,Suspension Arm,
-V005,Alternator,Starter Motor,Battery,
-V006,Brake Pad,Wheel Bearing,Shock Absorber,
-V007,Timing Belt,Water Pump,Alternator,
-V008,Battery,Starter Motor,Alternator,
-V009,Brake Pad,Disc Rotor,Clutch Plate,
-V010,Fuel Pump,Injector,Air Filter,
-V011,Brake Pad,Suspension Arm,Ball Joint,
-V012,Alternator,Headlight,Fuse,
-V013,Disc Rotor,Brake Pad,Wheel Cylinder,
-V014,Clutch Plate,Gearbox,Fuel Pump,
-V015,Battery,Alternator,Ignition Coil,
-V016,Shock Absorber,Suspension Arm,Control Arm,
-V017,Brake Pad,Disc Rotor,Brake Fluid,
-V018,Starter Motor,Alternator,Battery,
-V019,Timing Belt,Water Pump,Fan Belt,
-V020,Clutch Plate,Gearbox,Flywheel,
+V002,Alternator,Battery,Starter Motor,Headlight
+V003,Brake Pad,Disc Rotor,Brake Fluid,Wheel Cylinder
+V004,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V005,Alternator,Ignition Coil,Battery,Fuse
+V006,Fuel Pump,Injector,Air Filter,Fuel Filter
+V007,Timing Belt,Water Pump,Fan Belt,Alternator
+V008,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V009,Brake Pad,Disc Rotor,Suspension Arm,Shock Absorber
+V010,Battery,Alternator,Starter Motor,Ignition Coil
+V011,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V012,Brake Pad,Disc Rotor,Brake Fluid,Caliper
+V013,Alternator,Battery,Fuse,Headlight
+V014,Timing Belt,Water Pump,Fan Belt,Tensioner Pulley
+V015,Suspension Arm,Control Arm,Ball Joint,Shock Absorber
+V016,Brake Pad,Disc Rotor,Wheel Cylinder,Caliper
+V017,Clutch Plate,Gearbox,Flywheel,Pressure Plate
+V018,Battery,Alternator,Starter Motor,Ignition Coil
+V019,Fuel Pump,Injector,Fuel Filter,Air Filter
+V020,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V021,Timing Belt,Water Pump,Fan Belt,Alternator
+V022,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V023,Alternator,Battery,Headlight,Fuse
+V024,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V025,Brake Pad,Disc Rotor,Brake Fluid,Wheel Cylinder
+V026,Alternator,Starter Motor,Battery,Ignition Coil
+V027,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V028,Fuel Pump,Injector,Air Filter,Fuel Filter
+V029,Brake Pad,Disc Rotor,Suspension Arm,Shock Absorber
+V030,Timing Belt,Water Pump,Fan Belt,Alternator
+V031,Brake Pad,Disc Rotor,Caliper,Brake Fluid
+V032,Alternator,Battery,Fuse,Headlight
+V033,Clutch Plate,Gearbox,Flywheel,Pressure Plate
+V034,Brake Pad,Suspension Arm,Wheel Cylinder,Shock Absorber
+V035,Alternator,Starter Motor,Battery,Ignition Coil
+V036,Timing Belt,Water Pump,Fan Belt,Tensioner Pulley
+V037,Fuel Pump,Injector,Air Filter,Fuel Filter
+V038,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V039,Clutch Plate,Gearbox,Flywheel,Clutch Cable
+V040,Alternator,Battery,Starter Motor,Fuse
+V041,Brake Pad,Disc Rotor,Wheel Cylinder,Caliper
+V042,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V043,Fuel Pump,Injector,Fuel Filter,Air Filter
+V044,Timing Belt,Water Pump,Fan Belt,Alternator
+V045,Clutch Plate,Gearbox,Flywheel,Release Bearing
+V046,Brake Pad,Disc Rotor,Suspension Arm,Brake Fluid
+V047,Alternator,Battery,Headlight,Ignition Coil
+V048,Fuel Pump,Injector,Air Filter,Fuel Filter
+V049,Shock Absorber,Suspension Arm,Control Arm,Ball Joint
+V050,Brake Pad,Disc Rotor,Caliper,Brake Fluid
