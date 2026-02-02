@@ -15,7 +15,7 @@ _A curated collection of diverse datasets for data science, machine learning, an
 
 ## 🎯 Overview
 
-This repository contains a comprehensive collection of **15+ datasets** spanning various domains including healthcare, entertainment, transportation, demographics, and more. Each dataset is carefully organized and ready for analysis, making it perfect for:
+This repository contains a comprehensive collection of **50+ datasets** spanning various domains including healthcare, entertainment, transportation, demographics, and more. Each dataset is carefully organized and ready for analysis, making it perfect for:
 
 - 🔬 **Data Science Projects**
 - 🤖 **Machine Learning Experiments**
@@ -507,7 +507,7 @@ GitHub: https://github.com/itsluckysharma01/Datasets
 
 ### Need Help?
 
-- 📧 **Email**: [Your Contact]
+- 📧 **Email**: itsluckysharma001@gmail.com
 - 💬 **Issues**: Open a GitHub issue
 - 📖 **Wiki**: Check our documentation
 
